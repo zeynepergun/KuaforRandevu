@@ -1,6 +1,6 @@
 # KuaforRandevu
 
-Yeni nesil kuaför randevu mobil uygulaması,kullanıcıların kolayca randevu alabilmesini sağlayan pratik bir çözümdür
+Yeni nesil kuaför randevu mobil uygulaması, kullanıcıların kolayca randevu alabilmesini sağlayan pratik bir çözümdür
 
 ## Built With
 
