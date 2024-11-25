@@ -2,6 +2,10 @@
 
 Yeni nesil kuaför randevu mobil uygulaması, kullanıcıların kolayca randevu alabilmesini sağlayan pratik bir çözümdür
 
+![KuaförUygulaması](https://github.com/user-attachments/assets/b233c1f6-58ff-474b-b48a-d3d20985f17a)
+
+
+
 ## Built With
 
 https://dart.dev
